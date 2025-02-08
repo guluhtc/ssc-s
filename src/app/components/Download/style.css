@@ -1,0 +1,21 @@
+/* styles/globals.css */
+.sticky {
+  position: sticky;
+  top: 0%;
+  margin: auto;
+  padding: 50px;
+  font-size: 20px;
+}
+
+.stickyForMObile {
+  position: sticky;
+  top: 15%;
+  margin: auto;
+  padding: 50px;
+  font-size: 20px;
+}
+
+/* code for making mobile hand view */
+.shadowMobileView {
+  background: rgba(255, 255, 255, 0.09);
+}
